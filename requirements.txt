@@ -5,4 +5,4 @@ pandas
 numpy
 python-multipart
 Pillow
-opencv-python==4.5.5.64
+opencv-python==4.8.1.78
